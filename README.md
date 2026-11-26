@@ -37,6 +37,6 @@ File processing examples use relative paths. Run them with `file-processing/` as
 
 ## Verification and scope
 
-Retains 73 original Java source files, including alternative versions and one empty program scaffold. Class and file names were made descriptive where needed, personal/course metadata removed, six hardcoded absolute file-path references converted to relative filenames, and pizza owner names replaced with demonstration values. Algorithms and examples were otherwise preserved. Generated IDE caches, compiled classes, and duplicate binary-directory data were omitted. No Eclipse workspace or project configuration is required; the examples can be compiled directly with a JDK.
+Retains 73 original Java source files, including alternative versions and one empty program scaffold. Class and file names were made descriptive where needed, personal/course metadata removed, six hardcoded absolute file-path references converted to relative filenames, and pizza owner names replaced with demonstration values. Algorithms and examples were otherwise preserved. Generated IDE caches, compiled classes, and duplicate binary-directory data were omitted.
 
 Compilation: 69/69 independent source groups compiled with the installed JDK. Compilation does not establish correctness; interactive behavior, GUI operation, and all edge cases have not been independently tested. Obtain permission before redistributing collaborative or third-party material.
